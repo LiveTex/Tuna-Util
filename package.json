@@ -1,9 +1,9 @@
 {
-  "name": "tuna-util", 
-  "main": "bin/index.js", 
-  "version": "0.0.1", 
+  "name": "tuna-util",
+  "main": "bin/index.js",
+  "version": "0.0.1",
   "repository": {
-    "type": "git", 
-    "url": "https://github.com/LiveTex/Tuna-Util"
+    "type": "git",
+    "url": "https://github.com/LiveTex/Tuna-Events"
   }
 }
