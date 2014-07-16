@@ -1,7 +1,7 @@
 {
-  "name": "tuna-util", 
+  "name": "web-util", 
   "main": "bin/index.js", 
-  "version": "0.0.2", 
+  "version": "", 
   "repository": {
     "type": "git", 
     "url": "https://github.com/LiveTex/Tuna-Util"
