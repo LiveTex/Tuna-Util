@@ -1,7 +1,7 @@
 {
   "name": "web-util", 
   "main": "bin/index.js", 
-  "version": "1.0.6", 
+  "version": "1.0.7", 
   "repository": {
     "type": "git", 
     "url": "https://github.com/LiveTex/Web-Util"
