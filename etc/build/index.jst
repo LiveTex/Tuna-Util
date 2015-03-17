@@ -39,5 +39,6 @@ if (typeof JSON.parse !== 'function') {
   throw Error('"JSON.parse()" method must exists.');
 }
 
+/*%make -s index.js-compile%*/
 
-%%make -s index.js-web-compile%%
+module.exports = utils;

@@ -1,9 +1,13 @@
 {
-  "name": "web-util", 
+  "name": "web-util",
   "main": "bin/index.js", 
-  "version": "1.0.7", 
+  "version": "1.0.8-lead",
   "repository": {
     "type": "git", 
     "url": "https://github.com/LiveTex/Web-Util"
+  },
+
+  "publishConfig": {
+    "registry": "http://sonatype-nexus.livetex.ru/nexus/content/repositories/livetex-npm/"
   }
 }
